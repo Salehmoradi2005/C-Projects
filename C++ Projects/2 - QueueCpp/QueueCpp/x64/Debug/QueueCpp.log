@@ -1,0 +1,3 @@
+﻿  QueueCpp.cpp
+C:\Users\Saleh\source\repos\QueueCpp\QueueCpp.cpp(40,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QueueCpp.vcxproj -> C:\Users\Saleh\source\repos\QueueCpp\x64\Debug\QueueCpp.exe
