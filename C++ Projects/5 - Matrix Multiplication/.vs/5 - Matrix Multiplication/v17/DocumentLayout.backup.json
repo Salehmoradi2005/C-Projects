@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Cpp-Projects\\C\u002B\u002B Projects\\5 - Matrix Multiplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715414EC-6560-4358-ABCA-44AD5C7E693A}|5 - Matrix Multiplication.vcxproj|D:\\Projects\\Cpp-Projects\\C\u002B\u002B Projects\\5 - Matrix Multiplication\\5 - Matrix Multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{715414EC-6560-4358-ABCA-44AD5C7E693A}|5 - Matrix Multiplication.vcxproj|solutionrelative:5 - Matrix Multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "D:\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ToolTip": "D:\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\Visual Studio\\IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ViewState": "AgIAAFUHAAAAAAAAAAAuwF8HAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-21T16:17:24.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5 - Matrix Multiplication.cpp",
+              "DocumentMoniker": "D:\\Projects\\Cpp-Projects\\C\u002B\u002B Projects\\5 - Matrix Multiplication\\5 - Matrix Multiplication.cpp",
+              "RelativeDocumentMoniker": "5 - Matrix Multiplication.cpp",
+              "ToolTip": "D:\\Projects\\Cpp-Projects\\C\u002B\u002B Projects\\5 - Matrix Multiplication\\5 - Matrix Multiplication.cpp*",
+              "RelativeToolTip": "5 - Matrix Multiplication.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T15:42:35.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
