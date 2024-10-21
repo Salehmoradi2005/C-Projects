@@ -17,9 +17,9 @@ C++ , Visual Studio 2022
 Github Clone
 
 ```bash
-  https://github.com/Salehmoradi2005/C-Projects.git
+  https://github.com/Salehmoradi2005/Cpp-Projects.git
 ```
 GitHub CLI
 ```bash
-gh repo clone Salehmoradi2005/C-Projects
+gh repo clone Salehmoradi2005/Cpp-Projects.git
 ```
